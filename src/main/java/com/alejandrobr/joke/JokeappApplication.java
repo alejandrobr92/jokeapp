@@ -1,4 +1,4 @@
-package com.alejandrobr.joke.jokeapp;
+package com.alejandrobr.joke;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

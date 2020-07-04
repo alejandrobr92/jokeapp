@@ -1,4 +1,4 @@
-package com.alejandrobr.joke.jokeapp;
+package com.alejandrobr.joke;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
